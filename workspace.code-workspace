@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\js"
+		},
+		{
+			"path": "..\\libraries"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js",
+		"liveServer.settings.port": 5501
+	}
+}
